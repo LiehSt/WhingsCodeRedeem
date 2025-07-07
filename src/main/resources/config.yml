@@ -1,0 +1,7 @@
+codes:
+  examplecode:
+    rewards:
+      - give %player% diamond 3
+      - give %player% emerald 2
+    message: "&aKamu berhasil klaim hadiah dari kode &eexamplecode&a!"
+redeemed: {}

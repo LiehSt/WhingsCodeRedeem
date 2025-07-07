@@ -1,0 +1,13 @@
+name: WhingsCodeRedeem
+version: 1.0
+main: me.whings.plugin.WhingsCodeRedeemPlugin
+api-version: 1.20
+commands:
+  whingscoderedeem:
+    description: Admin command untuk mengelola kode redeem
+    aliases: [wingscoderedeem, wcr]
+    usage: /<command> <create|delete|list|reload>
+    permission: whingscoderedeem.admin
+  code:
+    description: Player command untuk redeem kode
+    usage: /code <kode>
