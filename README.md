@@ -37,7 +37,7 @@ Plugin Code Redeem Untuk Minecraft Java **Paper / Spigot**, dengan fitur yang si
 | Permission | Deskripsi |
 |------------|-----------|
 | `whingscoderedeem.admin` | Akses ke semua fitur admin |
-| `whingscoderedeem.redeem` | Akses untuk redeem code |
+| `whingscoderedeem.redeem` | Akses ke semua player untuk redeem code |
 
 ---
 
