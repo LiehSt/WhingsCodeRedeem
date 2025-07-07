@@ -50,11 +50,3 @@ codes:
   Welcome2025:
     reward: 'give %player% diamond 3'
 ```
-
----
-
-# ❗ PENTING
-
-Plugin Ini tidak benar-benar sepenuhnya dibuat oleh saya, plugin ini saya buat dari pengetahuan dasar dasar plugin coderedeem lainnya yang sudah tidak beroperasi,
-yang intinya plugin ini adalah hasil modif plugin lain dan saya mengubah sistem mekanismenya dan perubahan dasar lainya.
-Yang berarti plugin ini saya tidak memberi license apa pun, dan tidak resmi punya siapapun!
